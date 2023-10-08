@@ -275,6 +275,7 @@ a {
 
 /* section-four */
 
+
 .container-four {
     align-content: center;
     align-items: center;
@@ -289,7 +290,7 @@ a {
 
 .name-list {
     background-color: #FFFFFF;
-    padding-bottom: 32px;
+    padding: 32px 0px;
     width: 264px;
     height: 380px;
     border-radius: 0px 0px 4px 4px;
