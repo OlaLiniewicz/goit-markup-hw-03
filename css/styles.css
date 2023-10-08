@@ -285,7 +285,7 @@ a {
 .selection-four {
     background-color: #F4F4FD;
     height: 732px;
-    padding: 32px 0;
+    padding: 120px 0;
 }
 
 .name-list {
@@ -300,10 +300,8 @@ a {
 }
 
 .name-div {
-    padding-top: 32px;
-    padding-bottom: 32px;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding: 32px 0;
+
 }
 
 .heading-three {
